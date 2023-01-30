@@ -526,6 +526,11 @@ footer .copyright .pro-links i:hover {
     animation: 30s slidy infinite;
 }
 
+#about {
+    padding-top: 20px;
+    text-align: center;
+}
+
 .responsive-container-block {
     min-height: 75px;
     height: fit-content;
@@ -718,7 +723,7 @@ footer .copyright .pro-links i:hover {
     }
 
     .text-blk.description {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .allText {
@@ -737,7 +742,7 @@ footer .copyright .pro-links i:hover {
     }
 
     .text-blk.subHeadingText {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .responsive-container-block.Container.bottomContainer {
@@ -789,12 +794,12 @@ footer .copyright .pro-links i:hover {
 
     .text-blk.subHeadingText {
         text-align: center;
-        font-size: 25px;
+        font-size: 16px;
     }
 
     .text-blk.description {
         text-align: center;
-        font-size: 25px;
+        font-size: 15px;
     }
 
     .allText {
@@ -843,7 +848,7 @@ footer .copyright .pro-links i:hover {
     }
 
     .text-blk.subHeadingText {
-        font-size: 25px;
+        font-size: 15px;
         padding-top: 0px;
         padding-right: 0px;
         padding-bottom: 0px;
@@ -851,7 +856,7 @@ footer .copyright .pro-links i:hover {
     }
 
     .text-blk.description {
-        font-size: 25px;
+        font-size: 15px;
         padding-top: 0px;
         padding-right: 0px;
         padding-bottom: 0px;
