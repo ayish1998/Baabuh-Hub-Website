@@ -651,6 +651,7 @@ footer .copyright .pro-links i:hover {
     padding-right: 10px;
     padding-bottom: 0px;
     padding-left: 10px;
+    text-align: start;
 }
 
 #about .explore {
