@@ -532,7 +532,22 @@ footer .copyright .pro-links i:hover {
     text-align: center;
     margin: 0px;
 }
-
+#about p{
+    color: rgb(19, 18, 18);
+    font-size: 15px;
+    line-height: 34px;
+    font-weight: 700;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    text-align: center;
+    justify-content: center;
+}
 #about .responsive-container-block {
     min-height: 75px;
     height: fit-content;
@@ -614,7 +629,7 @@ footer .copyright .pro-links i:hover {
     margin: 0 0 0 0;
 }
 
-#about .text-blk.subHeadingText {
+/*#about .text-blk.subHeadingText {
     color: rgb(102, 102, 102);
     font-size: 15px;
     line-height: 34px;
@@ -627,7 +642,7 @@ footer .copyright .pro-links i:hover {
     margin-right: 0px;
     margin-bottom: 15px;
     margin-left: 0px;
-}
+}*/
 
 #about .text-blk.description {
     font-size: 18px;
@@ -874,9 +889,9 @@ padding: 8vw;
         padding-left: 10px;
     }
 
-    #about .text-blk.subHeadingText {
+    /*#about .text-blk.subHeadingText {
         font-size: 15px;
-    }
+    }*/
 
     #about .responsive-container-block.Container.bottomContainer {
         margin: 80px auto 50px auto;
@@ -925,7 +940,7 @@ padding: 8vw;
         text-align: center;
     }
 
-    #about .text-blk.subHeadingText {
+    #about p {
         text-align: center;
         font-size: 15px;
     }
@@ -999,7 +1014,7 @@ padding: 8vw;
         padding-left: 25px;
     }
 
-    #about .text-blk.subHeadingText {
+    #about p {
         font-size: 15px;
         padding-top: 0px;
         padding-right: 0px;
