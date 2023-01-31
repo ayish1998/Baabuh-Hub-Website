@@ -917,8 +917,8 @@ padding: 8vw;
     }
 
     #about .responsive-container-block.Container {
-        flex-direction: column;
         height: auto;
+        flex-direction: column-reverse;
     }
 
     #about .text-blk.headingText {
@@ -957,8 +957,19 @@ padding: 8vw;
     #about .allText.bottomText {
         margin: 40px 0 0 0;
     }
+    #about .responsive-container-block.Container.bottomContainer{
+        flex-direction: column-reverse;
+    }
+    #about .mainImg {
+        width: 100%;
+    }
+    #about .allText.aboveText {
+      padding-bottom: 20px;
+    }
+    #about .allText.bottomText {
+        padding-bottom: 20px;
 }
-
+}
 @media (max-width: 475px) {
     #about .responsive-container-block.Container {
         padding-top: 10px;
