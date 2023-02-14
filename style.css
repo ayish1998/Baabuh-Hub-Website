@@ -211,6 +211,7 @@ nav .navigation ul li a.active {
     height: 60%;
     background-size: cover;
     background-position: center;
+    cursor: pointer;
 }
 
 #service .services .details {
